@@ -1,0 +1,8 @@
+__pycache__/
+EEGNeurodegenerationDatasetClassed/
+EEG-Dementia-Dataset/
+models/
+models_anomaly_graph_ae/
+models_context_scoring/
+models_gin_scoring/
+models_lin_scoring/

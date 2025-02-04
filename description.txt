@@ -1,0 +1,5 @@
+V1 of the models uses attention weights to determine node significance when the model predicts dementia.
+V2 of the models uses GNNExplainer to identify node importance for the dementia class (or subgraph which would be like brain region)
+
+Predicted nodes or subgraphs could be localized back to cortical surfaces, indicating affected brain regions
+but this could be unreliable since LORETA may not be super accurate and EEG channel location may be enough
